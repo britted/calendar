@@ -3,7 +3,7 @@ h1 {
     font: x-large Verdana, Arial, Helvetica, sans-serif;
     text-align: center;
     height: 40px;
-    background-color: white;
+    background-color: black;
     color: black;
     }
 /* Styling for the overall table */
@@ -17,7 +17,7 @@ table {
 th {
     padding: 0 0.5em;
     text-align: center;
-    background-color:gray;
+    background-color:#cc66ff;
     color:white;
     }
 /* Styling for the individual cells (days) */
